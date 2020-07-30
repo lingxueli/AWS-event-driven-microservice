@@ -1,0 +1,7 @@
+{
+    "hellofromcloud9": {
+        "lambda": {
+            "event_from_terminal": "hi"
+        }
+    }
+}
